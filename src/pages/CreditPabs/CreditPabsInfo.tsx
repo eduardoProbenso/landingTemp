@@ -4,12 +4,12 @@ import {
   Button,
   useTheme,
 } from "@mui/material";
-import happyGrandma from "../../assets/images/happyGrandma.png";
-import Lupa from "../../assets/icons/Lupa.svg";
-import Smartphone from "../../assets/icons/Smartphone.svg";
-import Money from "../../assets/icons/Money.svg";
-import Terminal from "../../assets/icons/Terminal.svg";
-import HandShakeContract from "../../assets/icons/HandShakeContract.svg";
+import happyGrandma from "../assets/images/happyGrandma.png";
+import Lupa from "../assets/icons/Lupa.svg";
+import Smartphone from "../assets/icons/Smartphone.svg";
+import Money from "../assets/icons/Money.svg";
+import Terminal from "../assets/icons/Terminal.svg";
+import HandShakeContract from "../assets/icons/HandShakeContract.svg";
 
 const benefits = [
   {

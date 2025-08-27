@@ -1,5 +1,5 @@
 import { Box, Typography, Card, CardContent, useTheme } from "@mui/material";
-import Agenda from "../../assets/icons/AgendaDolar.svg";
+import Agenda from "../assets/icons/AgendaDolar.svg";
 
 const Section7 = () => {
   const theme = useTheme();

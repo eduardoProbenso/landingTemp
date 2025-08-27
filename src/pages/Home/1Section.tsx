@@ -1,5 +1,5 @@
 import { Box } from "@mui/material";
-import Principal from "../../assets/images/principal.png";
+import Principal from "../assets/images/principal.png";
 import PrestamoCard from "../../components/Prestamo";
 
 const OneSection = () => {

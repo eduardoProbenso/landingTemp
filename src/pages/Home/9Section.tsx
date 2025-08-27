@@ -10,7 +10,7 @@ import {
 } from "@mui/material";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import WhatsAppIcon from "@mui/icons-material/WhatsApp";
-import Question from "../../assets/icons/Question.svg";
+import Question from "../assets/icons/Question.svg";
 
 const Section9 = () => {
   const theme = useTheme();

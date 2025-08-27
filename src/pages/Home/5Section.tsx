@@ -2,8 +2,8 @@ import { Box, Typography, Card, useTheme, Button, } from "@mui/material";
 import Slider from "react-slick";
 import LINKS from "../../config/links";
 import { useRef } from "react";
-import HandShake from "../../assets/icons/HandShake.svg";
-import User from "../../assets/icons/User.svg";
+import HandShake from "../assets/icons/HandShake.svg";
+import User from "../assets/icons/User.svg";
 
 const Section5 = () => {
     const theme = useTheme();
