@@ -1,11 +1,11 @@
 import { Box, Typography, Card, useTheme, Button, Link, Accordion, AccordionSummary, AccordionDetails } from "@mui/material";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
-import happyGrandma from "../assets/images/happyGrandma.png";
-import LogoHorizontal from "../assets/icons/LogoHorizontal.svg";
-import Handshake from "../assets/icons/Handshake2.svg";
-import Clock from "../assets/icons/Clock.svg";
-import MoneyUp from "../assets/icons/MoneyUp.svg";
-import Calendar from "../assets/icons/Calendar.svg";
+import happyGrandma from "@assets/images/happyGrandma.png";
+import LogoHorizontal from "@assets/icons/LogoHorizontal.svg";
+import Handshake from "@assets/icons/Handshake2.svg";
+import Clock from "@assets/icons/Clock.svg";
+import MoneyUp from "@assets/icons/MoneyUp.svg";
+import Calendar from "@assets/icons/Calendar.svg";
 import { Link as RouterLink } from "react-router-dom";
 import LINKS from "../../config/links";
 

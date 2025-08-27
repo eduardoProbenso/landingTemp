@@ -1,10 +1,10 @@
 import { Box, Typography, Card, useTheme, Button } from "@mui/material";
-import madreHija from "../assets/images/madreHija.png";
+import madreHija from "@assets/images/madreHija.png";
 import LINKS from "../../config/links";
-import Dolar from "../assets/icons/Dolar.svg";
-import Telefono from "../assets/icons/Telefono.svg";
-import Banco from "../assets/icons/Banco.svg";
-import Terminal from "../assets/icons/Terminal.svg";
+import Dolar from "@assets/icons/Dolar.svg";
+import Telefono from "@assets/icons/Telefono.svg";
+import Banco from "@assets/icons/Banco.svg";
+import Terminal from "@assets/icons/Terminal.svg";
 
 const Section8 = () => {
   const theme = useTheme();

@@ -6,11 +6,11 @@ import {
   Button,
   Link,
 } from "@mui/material";
-import family from "../assets/images/family.png";
-import Handshake from "../assets/icons/Handshake2.svg";
-import Clock from "../assets/icons/Clock.svg";
-import MoneyUp from "../assets/icons/MoneyUp.svg";
-import Calendar from "../assets/icons/Calendar.svg";
+import family from "@assets/images/family.png";
+import Handshake from "@assets/icons/Handshake2.svg";
+import Clock from "@assets/icons/Clock.svg";
+import MoneyUp from "@assets/icons/MoneyUp.svg";
+import Calendar from "@assets/icons/Calendar.svg";
 import { Link as RouterLink } from "react-router-dom";
 import LINKS from "../../config/links";
 

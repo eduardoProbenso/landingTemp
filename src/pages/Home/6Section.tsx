@@ -1,8 +1,8 @@
 import { Box, Typography, Card, useTheme } from "@mui/material";
-import LogoCondusef from "../assets/images/Logo-de-Consusef.jpg";
-import LogoSAT from "../assets/images/LogoSAT.jpg";
-import LogoAsofom from "../assets/images/Logo-Asofom-002.jpg";
-import LogoBuro from "../assets/images/logoBuro.png";
+import LogoCondusef from "@assets/images/Logo-de-Consusef.jpg";
+import LogoSAT from "@assets/images/LogoSAT.jpg";
+import LogoAsofom from "@assets/images/Logo-Asofom-002.jpg";
+import LogoBuro from "@assets/images/logoBuro.png";
 
 const Section6 = () => {
   const theme = useTheme();
