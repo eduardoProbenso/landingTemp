@@ -17,7 +17,7 @@ import {
 import MenuIcon from "@mui/icons-material/Menu";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import Logo from "../assets/icons/perCapitaLogoNuevo.png";
+import Logo from "@assets/icons/perCapitaLogoNuevo.png";
 import LINKS from "../config/links";
 
 const Navbar = () => {

@@ -14,7 +14,7 @@ import {
 } from "@mui/material";
 import AddIcon from "@mui/icons-material/Add";
 import RemoveIcon from "@mui/icons-material/Remove";
-import CirculoDolarIcon from "../assets/icons/CirculoDolar.svg";
+import CirculoDolarIcon from "@assets/icons/CirculoDolar.svg";
 import { Link as RouterLink } from "react-router-dom";
 import LINKS from "../config/links"; 
 
